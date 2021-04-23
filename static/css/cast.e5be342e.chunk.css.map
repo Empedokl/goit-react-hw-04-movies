@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Cast/Cast.module.css"],"names":[],"mappings":"AAAA,mBACE,cACF,CAEA,kBACE,gBAAiB,CACjB,YAAa,CACb,mCAAqC,CACrC,aACF","file":"cast.e5be342e.chunk.css","sourcesContent":[".title {\n  font-size: 20px;\n}\n\n.list {\n  max-width: 1280px;\n  display: grid;\n  grid-template-columns: repeat(6, 1fr);\n  grid-gap: 10px;\n}\n"]}
